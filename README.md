@@ -4,7 +4,7 @@ This repository contains a template for creating overlay components for NextUI d
 
 ## What are Overlays?
 
-Overlays are system-specific transparent PNG images that can be displayed over games to show button mappings, game information, or decorative elements.
+Overlays are system-specific transparent PNG images that can be displayed over games to show decorative elements.
 
 ## Directory Structure
 
