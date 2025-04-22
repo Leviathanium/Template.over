@@ -21,15 +21,11 @@ Overlays are system-specific transparent PNG images that can be displayed over g
 1. Replace the placeholder `preview.png` with a preview of your overlay component
 2. Update the `manifest.json` with your component information (name, author, etc.)
 3. Add your overlay PNG files to the appropriate system directories
-4. Update the `content.systems` array in `manifest.json` to reflect which systems your component includes
-5. Update the `path_mappings` array with entries for each overlay file
-6. When complete, commit your changes and update the `NextUI-Themes` catalog
 
 ## Important Notes
 
 - System tags should match those used by NextUI (e.g., MGBA, SFC, MD, etc.)
 - Overlay PNG files should be transparent where needed
 - Make sure the resolution matches the target device screen (1024x768 for TrimUI Brick)
-- For each system directory you add, update both the `content.systems` array and `path_mappings` in manifest.json
 
 ## For more information, see the full component documentation
