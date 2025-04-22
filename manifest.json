@@ -1,0 +1,39 @@
+{
+  "component_info": {
+    "name": "My Overlay Component",
+    "type": "overlay",
+    "version": "1.0.0",
+    "author": "Your Name",
+    "creation_date": "2025-04-22T00:00:00Z",
+    "exported_by": "Theme Manager v1.0.0"
+  },
+  "content": {
+    "systems": ["MGBA", "SFC", "MD"]
+  },
+  "path_mappings": [
+    {
+      "theme_path": "Systems/MGBA/overlay1.png",
+      "system_path": "/mnt/SDCARD/Overlays/MGBA/overlay1.png",
+      "metadata": {
+        "SystemTag": "MGBA",
+        "OverlayName": "overlay1.png"
+      }
+    },
+    {
+      "theme_path": "Systems/MGBA/overlay2.png",
+      "system_path": "/mnt/SDCARD/Overlays/MGBA/overlay2.png",
+      "metadata": {
+        "SystemTag": "MGBA",
+        "OverlayName": "overlay2.png"
+      }
+    },
+    {
+      "theme_path": "Systems/SFC/overlay1.png",
+      "system_path": "/mnt/SDCARD/Overlays/SFC/overlay1.png",
+      "metadata": {
+        "SystemTag": "SFC",
+        "OverlayName": "overlay1.png"
+      }
+    }
+  ]
+}
