@@ -10,30 +10,5 @@
   "content": {
     "systems": ["MGBA", "SFC", "MD"]
   },
-  "path_mappings": [
-    {
-      "theme_path": "Systems/MGBA/overlay1.png",
-      "system_path": "/mnt/SDCARD/Overlays/MGBA/overlay1.png",
-      "metadata": {
-        "SystemTag": "MGBA",
-        "OverlayName": "overlay1.png"
-      }
-    },
-    {
-      "theme_path": "Systems/MGBA/overlay2.png",
-      "system_path": "/mnt/SDCARD/Overlays/MGBA/overlay2.png",
-      "metadata": {
-        "SystemTag": "MGBA",
-        "OverlayName": "overlay2.png"
-      }
-    },
-    {
-      "theme_path": "Systems/SFC/overlay1.png",
-      "system_path": "/mnt/SDCARD/Overlays/SFC/overlay1.png",
-      "metadata": {
-        "SystemTag": "SFC",
-        "OverlayName": "overlay1.png"
-      }
-    }
-  ]
+  "path_mappings": []
 }
